@@ -1,0 +1,17 @@
+# Ignore ficheiros do sistema
+.DS_Store
+Thumbs.db
+
+# Ignore backups do VSCode ou outros editores
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore ficheiros de sistema do macOS ou Windows
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# VSCode settings
+.vscode/
