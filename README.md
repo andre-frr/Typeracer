@@ -12,7 +12,7 @@ Uma aplicação web simples que desafia os utilizadores a escreverem frases o ma
 ## 📂 Estrutura do Projeto
 
 ```
-typeracer/
+TyperacerLite/
 ├── typeracer.html    # Estrutura base da aplicação
 ├── typeracer.css     # Estilos visuais
 └── typeracer.js      # Lógica do jogo em JavaScript
