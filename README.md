@@ -13,9 +13,9 @@ Uma aplicação web simples que desafia os utilizadores a escreverem frases o ma
 
 ```
 typeracer/
-├── typeracer.html      # Estrutura base da aplicação
-├── typeracer.css       # Estilos visuais
-└── typeracer.js       # Lógica do jogo em JavaScript
+├── typeracer.html    # Estrutura base da aplicação
+├── typeracer.css     # Estilos visuais
+└── typeracer.js      # Lógica do jogo em JavaScript
 ```
 
 ## 🚀 Como jogar
@@ -23,7 +23,7 @@ typeracer/
 1. Clona o repositório:
 
    ```bash
-   git clone https://github.com/teu-utilizador/typeracer-lite.git
+   git clone https://github.com/andre-frr/TyperacerLite.git
    ```
 
 2. Abre o ficheiro `typeracer.html` num navegador moderno.
